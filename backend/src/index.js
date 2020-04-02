@@ -12,7 +12,6 @@ app.listen(3333);
 
 /**
  * Rota / Recurso
- * Frango
  */
 
 /**
