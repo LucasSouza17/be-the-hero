@@ -537,9 +537,9 @@ detect-libc@^1.0.2:
   integrity sha1-+hN8S9aY7fVc1c0CrFWfkaTEups=
 
 dot-prop@^4.1.0:
-  version "4.2.0"
-  resolved "https://registry.yarnpkg.com/dot-prop/-/dot-prop-4.2.0.tgz#1f19e0c2e1aa0e32797c49799f2837ac6af69c57"
-  integrity sha512-tUMXrxlExSW6U2EXiiKGSBVdYgtV8qlHL+C10TsW4PURY/ic+eaysnSkwB4kA/mBlCyy/IKDJ+Lc3wbWeaXtuQ==
+  version "4.2.1"
+  resolved "https://registry.yarnpkg.com/dot-prop/-/dot-prop-4.2.1.tgz#45884194a71fc2cda71cbb4bceb3a4dd2f433ba4"
+  integrity sha512-l0p4+mIuJIua0mhxGoh4a+iNL9bmeK5DvnSVQa6T0OhrVmaEa1XScX5Etc673FePCJOArq/4Pa2cLGODUWTPOQ==
   dependencies:
     is-obj "^1.0.0"
 
@@ -1864,11 +1864,6 @@ posix-character-classes@^0.1.0:
   version "0.1.1"
   resolved "https://registry.yarnpkg.com/posix-character-classes/-/posix-character-classes-0.1.1.tgz#01eac0fe3b5af71a2a6c02feabb8c1fef7e00eab"
   integrity sha1-AerA/jta9xoqbAL+q7jB/vfgDqs=
-
-postgres@^1.0.2:
-  version "1.0.2"
-  resolved "https://registry.yarnpkg.com/postgres/-/postgres-1.0.2.tgz#7b9f6769934f727cec0f1d7ef58d4915a327f5dd"
-  integrity sha512-zeLgt42KSUNgX/uvo+gbVxTAYwgSY6MIKuU/a8YWuObX4rtGuKrVWopvEAqIAPSO0FeHS1TsSKnqPjoufPy8NA==
 
 prepend-http@^1.0.1:
   version "1.0.4"
